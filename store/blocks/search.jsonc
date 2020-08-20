@@ -23,10 +23,9 @@
       "search-fetch-more"
     ],
     "props": {
-      "pagination": "show-more",
-      "flex-layout.row#results": { "children": [ "flex-layout.col#filter", "flex-layout.col#search" ] },
-      "width": "20%"
-    }
+      "pagination": "show-more"
+    },
+    "flex-layout.row#results": { "children": [ "flex-layout.col#filter", "flex-layout.col#search" ] }
   },
   "flex-layout.row#top": { "children":["total-products.v2", "order-by.v2"]},
   "flex-layout.col#filter": { 
