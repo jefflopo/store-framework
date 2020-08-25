@@ -37,7 +37,7 @@
       }
     },
     "tab-content#home": {
-        "blocks": [
+        "children": [
           "tab-content.item#home1",
           "tab-content.item#home2"
           ]
