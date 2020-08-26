@@ -25,8 +25,8 @@
     },
     "tab-list.item#home1":{
       "props":{
-        "tabId": "majorAppliances",
-        "label": "texto",
+        "tabId": "about",
+        "label": "About",
         "defaultActiveTab": true
       }
     },
