@@ -26,7 +26,7 @@
     "tab-list.item#home1":{
       "props":{
         "tabId": "majorAppliances",
-        "label": "rich-text#home1",
+        "label": "texto",
         "defaultActiveTab": true
       }
     },
