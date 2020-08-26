@@ -24,7 +24,6 @@
           ]
     },
     "tab-list.item#home1":{
-      "children":["rich-text#home1"],
       "props":{
         "tabId": "majorAppliances",
         "label": "rich-text#home1",
@@ -79,13 +78,6 @@
         "props": {
           "tabId": "electronics"
         }
-    },
-    "rich-text#home1": {
-      "props": {
-        "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances",
-        "textPosition": "CENTER",
-        "font": "t-heading-3"
-      }
     },
     "rich-text#home2": {
       "props": {
