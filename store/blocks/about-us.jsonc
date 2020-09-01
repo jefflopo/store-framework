@@ -24,7 +24,7 @@
     },
     "tab-list.item#home1":{
       "children": [
-        "tab-content.item#home1"
+        "rich-text#home1"
       ],
       "props":{
         "tabId": "about",
