@@ -33,9 +33,19 @@
       }
     },
     "tab-list.item#home2":{
+      "children": [
+        "iframe"
+      ],
       "props": {
-        "tabId" :"electronics",
-        "label": "Electronics"
+        "tabId" :"instagram",
+        "label": "Instagram"
+      }
+    },
+    "iframe": {
+      "props": {
+        "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
+        "width": 800,
+        "height": 1000
       }
     },
     "rich-text#home1": {
