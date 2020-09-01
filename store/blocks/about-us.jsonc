@@ -33,13 +33,13 @@
       }
     },
     "tab-list.item#home2":{
-      "blocks": [
-        "iframe"
-      ],
       "props": {
         "tabId" :"instagram",
         "label": "Instagram"
-      }
+      },
+              "blocks": [
+                "iframe"
+              ]
     },
     "iframe": {
       "props": {
