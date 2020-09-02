@@ -38,7 +38,7 @@
         "tabId" :"instagram",
         "label": "Instagram"
       },
-      "blocks": ["tab-content.item#home2"]
+      "children": ["tab-content.item#home2"]
     },
     "tab-content.item#home2": {
       "children": [
