@@ -38,10 +38,10 @@
         "tabId" :"instagram",
         "label": "Instagram"
       },
-      "children": ["tab-content.item#home2"]
+      "blocks": ["tab-content.item#home2"]
     },
     "tab-content.item#home2": {
-      "blocks": [
+      "children": [
         "iframe#instagram"
       ],
       "props": {
