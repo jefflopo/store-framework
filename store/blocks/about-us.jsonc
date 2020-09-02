@@ -37,7 +37,7 @@
         "tabId" :"instagram",
         "label": "Instagram"
       },
-              "blocks": [
+              "children": [
                 "iframe#instagram"
               ]
     },
