@@ -38,15 +38,12 @@
         "tabId" :"instagram",
         "label": "Instagram"
       },
-      "children": ["tab-content.item#home2"]
+      "children": ["tab-content.item#home2", "iframe"]
     },
     "tab-content.item#home2": {
       "props": {
         "tabId": "electronics"
-      },
-      "children": [
-        "iframe"
-      ]
+      }
   },
     "iframe": {
       "props": {
