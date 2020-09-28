@@ -45,7 +45,7 @@
         "iframe"
       ],
       "props": {
-        "tabId": "electronics"
+        "tabId": "iframe"
       }
   },
     "iframe": {
