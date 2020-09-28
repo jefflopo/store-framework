@@ -41,11 +41,11 @@
       "children": ["tab-content.item#home2"]
     },
     "tab-content.item#home2": {
-      "children": [
+      "blocks": [
         "iframe"
       ],
       "props": {
-        "tabId": "iframe"
+        "tabId": "electronics"
       }
   },
     "iframe": {
