@@ -50,9 +50,9 @@
   },
     "iframe": {
       "props": {
-        "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-        "width": 1000,
-        "height": 800
+        "src": "teste de url",
+        "width": 800,
+        "height": 1000
       }
     },
     "rich-text#home1": {
