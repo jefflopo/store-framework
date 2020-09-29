@@ -4,7 +4,8 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row"
+      "flex-layout.row", 
+      "shelf"
     ]
   },
   "rich-text": {
@@ -43,7 +44,6 @@
   },
   "flex-layout.row":{
     "children": [
-      "info-card#rethink",
       "flex-layout.col"
     ]
   },
