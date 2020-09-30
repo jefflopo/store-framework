@@ -22,6 +22,10 @@
     }
   },
 
+  "product-summary-sku-selector":{
+    
+  },
+
   "product-summary.shelf": {
     "children": [
       "product-summary-add-to-list-button",
