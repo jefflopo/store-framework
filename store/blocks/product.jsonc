@@ -20,7 +20,7 @@
   },
   "flex-layout.col#right":{
     "children":[
-      "product-price", "buy-button#product"
+      "product-name", "product-price", "buy-button#product"
     ],
     "props":{
       "verticalAlign": "middle",
@@ -31,6 +31,12 @@
   "product-images": {
     "props": {
       "displayThumbnailsArrows": true
+    }
+  },
+  "product-name": {
+    "props": {
+      "showSku": true,
+      "showBrandName": true
     }
   },
   "product-price": {
