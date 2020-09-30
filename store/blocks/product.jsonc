@@ -19,7 +19,7 @@
     ]
   },
   "flex-layout.col#right":{
-    "children":[
+    "blocks":[
       "product-name", "product-price", "buy-button#product"
     ],
     "props":{
