@@ -26,7 +26,7 @@
   },
   "flex-layout.col#right":{
     "children":[
-      "product-name", "product-price", "flex-layout.row#qty-sku", "shipping-simulator"
+      "product-name", "product-identifier.product", "product-price", "flex-layout.row#qty-sku", "shipping-simulator"
     ],
     "props":{
       "verticalAlign": "middle",
