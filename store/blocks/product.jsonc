@@ -33,7 +33,7 @@
       "displayThumbnailsArrows": true
     }
   },
-  "product-name": {
+  "product-name":{
     "props": {
       "showSku": true,
       "showBrandName": true
