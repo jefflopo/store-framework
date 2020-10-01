@@ -55,7 +55,7 @@
         "rich-text#home2"
       ],
       "props": {
-        "tabId": "home1"
+        "tabId": "home2"
       }
     },
     "rich-text#home1": {
