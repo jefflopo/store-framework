@@ -40,26 +40,23 @@
         "children":[
             "tab-content.item#home1",
             "tab-content.item#home2"
-        ],
-        "props":{
-          "tabId": "Tab content ID"
-        }
+        ]
     },
     "tab-content.item#home1":{
       "children":[
         "rich-text#home1"
       ],
-              "props":{
-                  "tabId": "RichText 1"
-              }
+      "props": {
+        "tabId": "home1"
+      }
     },
     "tab-content.item#home2":{
       "children":[
         "rich-text#home2"
       ],
-                "props":{
-                  "tabId": "RichText 2"
-              }
+      "props": {
+        "tabId": "home1"
+      }
     },
     "rich-text#home1": {
       "props": {
