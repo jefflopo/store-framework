@@ -14,8 +14,7 @@
       "tab-layout#home": {
         "children": [
           "tab-list#home",
-          "tab-content.item#home1",
-            "tab-content.item#home2"
+          "tab-content#home"
         ]
       },
       "tab-list#home":{
@@ -38,7 +37,7 @@
         }
       },
     "tab-content#home":{
-        "children":[
+        "blocks":[
             "tab-content.item#home1",
             "tab-content.item#home2"
         ]
