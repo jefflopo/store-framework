@@ -14,7 +14,8 @@
       "tab-layout#home": {
         "children": [
           "tab-list#home",
-          "tab-content#home"
+          "tab-content.item#home1",
+            "tab-content.item#home2"
         ]
       },
       "tab-list#home":{
@@ -47,7 +48,6 @@
         "rich-text#home1"
       ],
       "props": {
-        "blockClass": "homeBlock1",
         "tabId": "home1"
       }
     },
@@ -56,7 +56,6 @@
         "rich-text#home2"
       ],
       "props": {
-        "blockClass": "homeBlock2",
         "tabId": "home2"
       }
     },
