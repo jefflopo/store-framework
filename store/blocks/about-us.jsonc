@@ -43,13 +43,19 @@
         ]
     },
     "tab-content.item#home1":{
-      "props":{
-        "tabId": "tabHome1"
+      "children":[
+        "rich-text#home1"
+      ],
+      "props": {
+        "tabId": "home1"
       }
     },
     "tab-content.item#home2":{
-      "props":{
-        "tabId": "tabHome2"
+      "children":[
+        "rich-text#home2"
+      ],
+      "props": {
+        "tabId": "home2"
       }
     },
     "rich-text#home1": {
