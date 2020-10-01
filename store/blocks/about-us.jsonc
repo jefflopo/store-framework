@@ -47,6 +47,7 @@
         "rich-text#home1"
       ],
       "props": {
+        "blockClass": "homeBlock1",
         "tabId": "home1"
       }
     },
@@ -55,6 +56,7 @@
         "rich-text#home2"
       ],
       "props": {
+        "blockClass": "homeBlock2",
         "tabId": "home2"
       }
     },
