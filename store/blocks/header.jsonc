@@ -29,8 +29,7 @@
         "children": [
           "header-spacer",
           "rich-text#header",
-          "header-spacer",
-          "header-row#main"
+          "header-spacer"
         ]
       },
       "header-row#main": {
