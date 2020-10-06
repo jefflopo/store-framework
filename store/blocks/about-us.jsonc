@@ -44,7 +44,7 @@
       "props": {
         "tabId": "electronics"
       },
-      "blocks": ["iframe"]
+      "children": ["iframe"]
   },
     "iframe": {
       "props": {
