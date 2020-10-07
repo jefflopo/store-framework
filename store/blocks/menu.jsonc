@@ -23,11 +23,15 @@
           "menu-item#refrigerators",
           "menu-item#ovens",
           "menu-item#washers"
-        ],
-    
+        ],    
         "props":{
           "orientation": "vertical"
         }
+    },
+    "menu-item#small-appliances":{
+      "children":[
+        "vtex.menu@2.x:submenu#small"
+      ]
     },
     "menu-item#major-appliances":{
       "children":[
@@ -73,7 +77,8 @@
         "children":[
             "menu-item#cameras",
             "menu-item#laptops",
-            "menu-item#tvs"
+            "menu-item#tvs",
+            "vtex.menu@2.x:submenu#electronics"
         ],
         "props": {
             "orientation": "vertical"
