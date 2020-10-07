@@ -49,7 +49,7 @@
         }
     },
     "vtex.menu@2.x:submenu#small":{
-        "children":[
+        "blocks":[
           "vtex.menu@2.x:menu#small",
           "menu-item#mixers",
           "menu-item#toasters",
@@ -86,5 +86,10 @@
         "props": {
             "orientation": "vertical"
         }
+    },
+    "vtex.menu@2.x:submenu#electronics":{
+      "children":[
+        "vtex.menu@2.x:menu#electronics"
+      ]
     }
 }
