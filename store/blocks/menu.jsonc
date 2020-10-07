@@ -43,7 +43,10 @@
           "menu-item#refrigerators",
           "menu-item#ovens",
           "menu-item#washers"
-        ]
+        ],
+        "props":{
+          "orientation":"vertical"
+        }
     },
     "vtex.menu@2.x:submenu#small":{
         "children":[
