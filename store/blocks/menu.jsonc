@@ -16,7 +16,7 @@
         ]
     },
     "vtex.menu@2.x:menu#major": {
-        "blocks": [
+        "children": [
           "menu-item#major-appliances",
           "menu-item#small-appliances",
           "menu-item#electronics",
