@@ -10,6 +10,11 @@
           "orientation": "horizontal"
         }
     },
+    "vtex.menu@2.x:submenu#major":{
+        "children":[
+          "vtex.menu@2.x:menu#major"
+        ]
+    },
     "vtex.menu@2.x:menu#major": {
         "children": [
           "menu-item#major-appliances",
@@ -33,7 +38,7 @@
         "vtex.menu@2.x:submenu#major"
       ]
     },
-    "vtex.menu@2.x:submenu#major":{
+    "vtex.menu@2.x:submenu#majorappliances":{
         "children":[
           "menu-item#refrigerators",
           "menu-item#ovens",
