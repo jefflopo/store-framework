@@ -26,6 +26,11 @@
           "orientation": "vertical"
         }
     },
+    "menu-item#major-appliances":{
+      "children":[
+        "vtex.menu@2.x:submenu#major"
+      ]
+    },
     "vtex.menu@2.x:submenu#majorappliances":{
         "children":[
           "menu-item#refrigerators",
